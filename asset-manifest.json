@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/RecipiesApp/static/css/main.df4d58ba.chunk.css",
+    "main.js": "/RecipiesApp/static/js/main.ab2c044a.chunk.js",
+    "main.js.map": "/RecipiesApp/static/js/main.ab2c044a.chunk.js.map",
+    "runtime-main.js": "/RecipiesApp/static/js/runtime-main.cca760fe.js",
+    "runtime-main.js.map": "/RecipiesApp/static/js/runtime-main.cca760fe.js.map",
+    "static/css/2.150d169a.chunk.css": "/RecipiesApp/static/css/2.150d169a.chunk.css",
+    "static/js/2.cfa471bd.chunk.js": "/RecipiesApp/static/js/2.cfa471bd.chunk.js",
+    "static/js/2.cfa471bd.chunk.js.map": "/RecipiesApp/static/js/2.cfa471bd.chunk.js.map",
+    "static/js/3.80b7ed1f.chunk.js": "/RecipiesApp/static/js/3.80b7ed1f.chunk.js",
+    "static/js/3.80b7ed1f.chunk.js.map": "/RecipiesApp/static/js/3.80b7ed1f.chunk.js.map",
+    "index.html": "/RecipiesApp/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/RecipiesApp/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.df4d58ba.chunk.css.map": "/RecipiesApp/static/css/main.df4d58ba.chunk.css.map",
+    "static/js/2.cfa471bd.chunk.js.LICENSE.txt": "/RecipiesApp/static/js/2.cfa471bd.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/RecipiesApp/static/media/header2.57802c32.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cca760fe.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.cfa471bd.chunk.js",
+    "static/css/main.df4d58ba.chunk.css",
+    "static/js/main.ab2c044a.chunk.js"
+  ]
+}
